@@ -19,11 +19,5 @@
 #### **Tools & Technologies**
 - AWS Lambda, EC2, S3, SQS
 
-### 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/abbas-askari-b7328318a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="img" height="30" width="40" /></a>
-<a href="https://abbasaskari.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="website" height="30" width="40" /></a>
-
----
-
-⭐️ **Feel free to explore my repositories and contribute to open-source projects!**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abbasaskari.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-askari-b7328318a/)
