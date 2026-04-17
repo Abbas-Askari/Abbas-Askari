@@ -1,27 +1,47 @@
-## Hi there, I'm Abbas Askari! 👋
+<div align="center">
 
+# Abbas Askari
 
-### 🚀 About Me
+**Full Stack Engineer · AWS Certified Solutions Architect**
 
-- 📚 Currently exploring **Cloud Technologies**
-- 💡 Experienced with **Web Development**
-- 🌱 Always learning new technologies and improving my skills
-- 📩 Open to collaborations on exciting projects!
+[![Portfolio](https://img.shields.io/badge/Portfolio-abbasaskari.vercel.app-black?style=flat-square&logo=vercel)](https://abbasaskari.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abbas--askari-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/abbas--askari)
+[![Email](https://img.shields.io/badge/Email-abbasaskari797@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:abbasaskari797@gmail.com)
 
-### 🛠️ Tech Stack
+</div>
 
-#### **Languages & Frameworks**
-- JavaScript, Python
-- Node.js, Express.js, Flask, Next.js
-- MongoDB, PostgreSQL
-- Tailwind CSS, Redux
-- Supabase
+---
 
-#### **Tools & Technologies**
-- AWS Lambda, EC2, S3, SQS, CloudWatch
-- CI/CD
-- Sentry
-- CMS
+I build and operate production-scale systems end-to-end — from architecture to deployment and post-release support. I care about performance, reliability, and writing systems that scale gracefully under load.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abbasaskari.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-askari-b7328318a/)
+---
+
+## Tech Stack
+
+**Frontend**
+`Next.js` `React` `TypeScript` `Redux` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Go` `Python` `WebSockets` `Supabase`
+
+**Cloud & Infra (AWS)**
+`Lambda` `EC2` `DynamoDB` `SQS` `S3` `CloudFront` `API Gateway` `Cognito` `ECR` `SAM CLI`
+
+**Databases**
+`PostgreSQL` `MongoDB`
+
+**Tools**
+`Docker` `CI/CD` `Socket.io` `Sentry` `Git`
+
+---
+
+## Certifications
+
+🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)** · 2026
+[View Badge](https://www.credly.com/badges/a5100f14-1f49-4abe-97d0-da44b5394e21/public_url)
+
+---
+
+<div align="center">
+<sub>Open to interesting problems. Reach out at abbasaskari797@gmail.com</sub>
+</div>
