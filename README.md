@@ -16,6 +16,13 @@ I build and operate production-scale systems end-to-end — from architecture to
 
 ---
 
+## Certifications
+
+🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)** · 2026
+[View Badge](https://www.credly.com/badges/a5100f14-1f49-4abe-97d0-da44b5394e21/public_url)
+
+---
+
 ## Tech Stack
 
 **Frontend**
@@ -32,13 +39,6 @@ I build and operate production-scale systems end-to-end — from architecture to
 
 **Tools**
 `Docker` `CI/CD` `Socket.io` `Sentry` `Git`
-
----
-
-## Certifications
-
-🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)** · 2026
-[View Badge](https://www.credly.com/badges/a5100f14-1f49-4abe-97d0-da44b5394e21/public_url)
 
 ---
 
